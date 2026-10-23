@@ -18,5 +18,4 @@ export class Maquina {
     desligar(status) {
         this.#status = "desligada";
     }
-
 }
